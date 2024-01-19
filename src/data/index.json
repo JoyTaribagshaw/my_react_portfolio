@@ -1,27 +1,28 @@
 {
-  "skills":
-  {
-"id": "1",
-"src": "",
-"title": "Front-End",
-"description": "Lorem ispum dolor sit anet",
-  },
-  {
-"id": "2",
-"src": "",
-"title": "Back-End",
-"description": "Lorem ispum dolor sit anet",
-  },
-  {
-"id": "3",
-"src": "",
-"title": "UI/UX Design",
-"description": "Lorem ispum dolor sit anet",
-  },
-  {
-"id": "4",
-"src": "",
-"title": "Webflow Development",
-"description": "Lorem ispum dolor sit anet",
-  },
+  "skills": [
+    {
+      "id": "1",
+      "src": "",
+      "title": "Front-End",
+      "description": "Lorem ispum dolor sit amet"
+    },
+    {
+      "id": "2",
+      "src": "",
+      "title": "Back-End",
+      "description": "Lorem ispum dolor sit amet"
+    },
+    {
+      "id": "3",
+      "src": "",
+      "title": "UI/UX Design",
+      "description": "Lorem ispum dolor sit amet"
+    },
+    {
+      "id": "4",
+      "src": "",
+      "title": "Webflow Development",
+      "description": "Lorem ispum dolor sit amet"
+    }
+  ]
 }
