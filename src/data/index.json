@@ -24,5 +24,28 @@
       "title": "Webflow Development",
       "description": "Lorem ispum dolor sit amet"
     }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "",
+      "title": "Budget App",
+      "description": "Lorem ispum dolor sit amet",
+      "link": "view in github"
+    },
+    {
+      "id": "2",
+      "src": "",
+      "title": "Meal Connect",
+      "description": "Lorem ispum dolor sit amet",
+      "link": "view in github"
+    },
+    {
+      "id": "3",
+      "src": "",
+      "title": "Countries of the world",
+      "description": "Lorem ispum dolor sit amet",
+      "link": "view in github"
+    }
   ]
 }
