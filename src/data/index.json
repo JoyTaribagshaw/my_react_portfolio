@@ -47,5 +47,31 @@
       "description": "Lorem ispum dolor sit amet",
       "link": "view in github"
     }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "",
+      "description": "Lorem ispum dolor sit amet",
+      "author_name": "Ruth Tari",
+      "author_designation": "starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "",
+      "description": "Lorem ispum dolor sit amet",
+      "author_name": "Ruth Tari",
+      "author_designation": "starbucks"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "",
+      "description": "Lorem ispum dolor sit amet",
+      "author_name": "Ruth Tari",
+      "author_designation": "starbucks"
+    }
   ]
 }

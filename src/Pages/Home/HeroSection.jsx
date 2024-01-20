@@ -3,17 +3,15 @@ export default function HeroSection() {
     <section id="heroSection" className="hero-section">
       <div className="hero-section-content-box">
         <div className="hero-section-content">
-<p className="section-title">Hey, I'm Joy</p>
+<p className="section-title">Hello, I'm Joy! 👋</p>
 <h1 className="hero-section-title">
-<span className="hero-section-title-color">Full Stack</span>{" "}
+<span className="hero-section-title-color">Full-Stack</span>{" "}
 <br />
 Developer
 </h1>
 <p className="hero-section-description">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Id minus quisquam expedita quidem impedit? 
-<br />
-Iure, architecto quis commodi vero rerum minima quibusdam, eius nostrum laborum delectus error itaque cum sapiente?
-</p>
+I'm a dynamic Full-stack developer ready to bring your ideas to life! Let's collaborate on something incredible.<br />
+Whether you have a project in mind or just want to chat possibilities, I'm here for it. Let's connect and start building amazing things together!</p>
         </div>
 <button className="btn btn-primary">Get In Touch</button>
       </div>
