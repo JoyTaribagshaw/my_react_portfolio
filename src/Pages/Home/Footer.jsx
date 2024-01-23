@@ -81,7 +81,7 @@ function Footer() {
         <ul>
           <li>
   <a
-    href="https://www.facebook.com/"
+    href="https://www.facebook.com/profile.php?id=61555118132445&mibextid=gik2fB"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
@@ -96,7 +96,7 @@ function Footer() {
 </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/code.with.joy/"
                 className="navbar-content"
                 target="_blank"
                 rel="noreferrer"
@@ -119,7 +119,7 @@ function Footer() {
             </li>
             <li>
   <a
-    href="https://www.tiktok.com/"
+    href="http://tiktok.com/@joy.is.coding"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
@@ -135,7 +135,7 @@ function Footer() {
 
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/joytaribagshaw/"
                 className="navbar-content"
                 target="_blank"
                 rel="noreferrer"
@@ -158,7 +158,7 @@ function Footer() {
             </li>
             <li>
   <a
-    href="https://www.hashnode.com/"
+    href="https://thejoyoftech.hashnode.dev/"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
