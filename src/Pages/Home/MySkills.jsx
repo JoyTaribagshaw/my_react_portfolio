@@ -15,7 +15,16 @@ export default function MySkills() {
             </div>
             <div className="skills-section-card-content">
               <h3 className="skills-section-title">{item.title}</h3>
-              <p className="skills-section-description">{item.description}</p>
+              <p className="skills-section-description">
+  <span className="language">{item.language1}</span>
+  <span className="language">{item.language2}</span>
+  <span className="language">{item.language3}</span>
+  <br />
+  <span className="language">{item.language4}</span>
+  <span className="language">{item.language5}</span>
+  <span className="language">{item.language6}</span>
+</p>
+
             </div>
           </div>
         ))}

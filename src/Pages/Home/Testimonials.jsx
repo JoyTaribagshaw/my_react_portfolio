@@ -7,6 +7,9 @@ export default function Testimonial() {
         <div className="portfolio-container">
           <p className="sub-title">Clients Feedback</p>
           <h2 className="sections-heading">Customer Feedback</h2>
+          <p className="text-lg">
+            See what my amazing past clients have to say about the work done by me.
+          </p>
         </div>
       </div>
       <div className="portfolio-section-container">

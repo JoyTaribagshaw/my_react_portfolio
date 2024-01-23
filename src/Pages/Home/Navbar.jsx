@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-scroll";
 
 function Navbar() {
   const [navActive, setNavActive] = useState(false);
@@ -29,7 +29,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="" alt="" />
+        <img src="src/assets/logo-removebg-preview.png" alt="My-logo" className="logo"/>
       </div>
       <a className={`nav_hamburger ${navActive ? "active" : ""}`}
       onClick={toggleNav}
@@ -94,7 +94,7 @@ function Navbar() {
           smooth={true}
           offset={-70}
           duration={500}
-          to="Testimonials"
+          to="testimonial"
           className="navbar-content"
           >
             Testimonials
