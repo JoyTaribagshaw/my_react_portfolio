@@ -112,7 +112,15 @@ export default function AboutMe(){
 </li>
           </ul>
         </div>
-        <button className="btn btn-primary">Get my resume</button>
+        <a
+  href="https://docs.google.com/document/d/1c6Dvxm2bz22rGJVq7QbMAAkGHgLhyD9C0A_vRXZyv6M/"
+  className="navbar-content"
+  target="_blank"
+  rel="noreferrer"
+>
+  <button className="btn btn-primary">Get my resume</button>
+</a>
+
       </div>
     </section>
   )

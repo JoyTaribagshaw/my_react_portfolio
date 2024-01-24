@@ -44,41 +44,44 @@
       "id": "1",
       "src": "src/assets/wit.png",
       "title": "Women in Tech Mentorship",
-      "date": "Front-End |    2023",
-      "description": "Imagine a dynamic and engaging webpage for a Women in Tech Annual Mentorship program, featuring past programs and spotlighting the speakers of the show. This multi-page website is designed for ease of use, with a main page showcasing upcoming program and a dedicated about page providing insights into the Annual Mentorship program. It's not just a website; it's a versatile platform that puts control in your hands to keep the content fresh and exciting.",
+      "date": "Front-End ● 2023",
+      "description": "Imagine a dynamic and engaging webpage for a Women in Tech Annual Mentorship program, featuring past programs and spotlighting the speakers of the show. This multi-page website is designed for ease of use, with a main page showcasing upcoming program and a dedicated about page providing more insights.",
       "language1": "HTML",
       "language2": "CSS",
       "language3": "JavaScript",
-      "link": "https://github.com/JoyTaribagshaw/module-1-capstone-project"
+      "link": "view in github",
+      "demo": "Live Website"
     },
     {
       "id": "2",
       "src": "src/assets/mealconnect.png",
       "title": "Meal Connect",
-      "date": "Full-Stack | 2023",
-      "description": "A collaborative project where users can explore the pleasure of savoring exquisite meals. Featuring two repositories for front-end and back-end, this user-friendly platform allows users to navigate meal pages and reserve meals. Admin privileges unlock the ability to add meals and manage reservations. Behind the scenes, the back-end efficiently manages data operations, including GET, PUT, POST, and DESTROY, ensuring a smooth and secure user experience.",
+      "date": "Full-Stack ● 2023",
+      "description": "A collaborative project where users can explore the pleasure of savoring exquisite meals. Featuring two repositories for front-end and back-end, this user-friendly platform allows users to navigate meal pages and reserve meals. Admin privileges unlock the ability to add meals and manage reservations.",
       "language1": "Ruby on Rails",
       "language2": "React.js",
       "language3": "Tailwind",
-      "link": "view in github"
+      "link": "view in github",
+      "demo": "Live Website"
     },
     {
       "id": "3",
       "src": "src/assets/budget.png",
       "title": "Budget Buddy",
-      "date": "Full-Stack | 2023",
-      "description": "Revolutionize the way you handle your finances with our user-friendly budget app. This powerful tool empowers you to effortlessly track and manage your expenses. Dive into a personalized financial journey as you create custom spending categories, input expenditures with ease, and elevate the visual appeal by customizing category icons using any image URL. Take charge of your expenses and enjoy a seamless, personalized approach to financial management.",
+      "date": "Full-Stack ● 2023",
+      "description": "Revolutionize the way you handle your finances with our user-friendly budget app. This powerful tool empowers you to effortlessly track and manage your expenses.",
       "language1": "Ruby on Rails",
       "language2": "CSS",
       "language3": "API",
-      "link": "view in github"
+      "link": "view in github",
+      "demo": "Live Website"
     }
   ],
   "testimonial": [
     {
       "id": "1",
       "count": "5",
-      "src": "",
+      "src": "src/assets/ruth.jpeg",
       "description": "Joy is responsive, and has a deep understanding of web development. We enjoyed working with her on our website projects and will definitely use her again.",
       "author_name": "Ruth Tari",
       "author_designation": "Entreprenuer"
@@ -86,7 +89,7 @@
     {
       "id": "2",
       "count": "5",
-      "src": "",
+      "src": "src/assets/abigail.jpeg",
       "description": "It's not my first time using Miss Joy and now she once again surprised me with her talent and knowledge in Webflow web development and especially in CMS. She understands the needs and works timely.",
       "author_name": "Abigail Nyala",
       "author_designation": "Founder, WIGSI"
@@ -94,7 +97,7 @@
     {
       "id": "3",
       "count": "5",
-      "src": "",
+      "src": "src/assets/saw.jpeg",
       "description": "It was great working with Joy, she is very quick to respond and open to collaborating and going above and beyond. The final result is exactly what I had in mind. Highly recommend.",
       "author_name": "Thomas Bugyei",
       "author_designation": "starbucks"

@@ -37,31 +37,34 @@ export default function MyPortfolio() {
               <h3 className="portfolio-section-title">{item.title}</h3>
               <h4>{item.date}</h4>
               <p className="text-md">{item.description}</p>
-              {/* <p className="text-sm portfolio-link">{item.link}</p> */}
               <p className="skills-section-description skills">
   <span className="language skill">{item.language1}</span>
   <span className="language skill">{item.language2}</span>
   <span className="language skill">{item.language3}</span>
 </p>
-              <button className="btn btn-primary">Live Website
+{/* <p className="text-sm portfolio-link">{item.link}</p> */}
+              
               <a
+              
     href="https://github.com/JoyTaribagshaw"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
   >
+    <button className="button-git">{item.link}
     <img
       src="src/assets/icons8-arrow-upper-right-24.png"
       alt="Arrow Icon"
       width="32"
       height="32"
     />
+    </button>
   </a>
-              </button>
-              <button className="btn-git">
-  View on Github
+              
+              <button className="button-demo">
+              {item.demo}
   <a
-    href="https://www.github.com/"
+    href="https://joytaribagshaw.github.io/module-1-capstone-project/"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
@@ -74,6 +77,7 @@ export default function MyPortfolio() {
     />
   </a>
 </button>
+
             </div>
           </div>
         ))}
