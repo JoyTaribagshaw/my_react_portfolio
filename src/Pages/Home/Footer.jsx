@@ -91,6 +91,7 @@ function Footer() {
       alt="Facebook Icon"
       width="32"
       height="32"
+      className="icon-hover"
     />
   </a>
 </li>
@@ -107,6 +108,7 @@ function Footer() {
                   height="32"
                   viewBox="0 0 33 33"
                   fill="none"
+                  className="icon-hover"
                 >
                   <path
                     fill-rule="evenodd"
@@ -129,6 +131,7 @@ function Footer() {
       alt="TikTok Icon"
       width="39"
       height="39"
+      className="icon-hover"
     />
   </a>
 </li>
@@ -146,6 +149,7 @@ function Footer() {
                   height="32"
                   viewBox="0 0 33 33"
                   fill="none"
+                  className="icon-hover"
                 >
                   <path
                     fill-rule="evenodd"
@@ -168,6 +172,7 @@ function Footer() {
       alt="Hashnode Icon"
       width="32"
       height="32"
+      className="icon-hover"
     />
   </a>
 </li>

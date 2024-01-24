@@ -43,21 +43,34 @@
     {
       "id": "1",
       "src": "src/assets/wit.png",
-      "title": "Women in Tech",
-      "description": "Imagine a dynamic and engaging webpage for a Women in Tech Annual Mentorship program, featuring past programs and spotlighting the speakers of the show. This multi-page website is designed for ease of use, with a main page showcasing upcoming program and a dedicated about page providing insights into the Annual Mentorship program. It's not just a website; it's a versatile platform that puts control in your hands to keep the content fresh and exciting."
+      "title": "Women in Tech Mentorship",
+      "date": "Front-End |    2023",
+      "description": "Imagine a dynamic and engaging webpage for a Women in Tech Annual Mentorship program, featuring past programs and spotlighting the speakers of the show. This multi-page website is designed for ease of use, with a main page showcasing upcoming program and a dedicated about page providing insights into the Annual Mentorship program. It's not just a website; it's a versatile platform that puts control in your hands to keep the content fresh and exciting.",
+      "language1": "HTML",
+      "language2": "CSS",
+      "language3": "JavaScript",
+      "link": "https://github.com/JoyTaribagshaw/module-1-capstone-project"
     },
     {
       "id": "2",
       "src": "src/assets/mealconnect.png",
       "title": "Meal Connect",
+      "date": "Full-Stack | 2023",
       "description": "A collaborative project where users can explore the pleasure of savoring exquisite meals. Featuring two repositories for front-end and back-end, this user-friendly platform allows users to navigate meal pages and reserve meals. Admin privileges unlock the ability to add meals and manage reservations. Behind the scenes, the back-end efficiently manages data operations, including GET, PUT, POST, and DESTROY, ensuring a smooth and secure user experience.",
+      "language1": "Ruby on Rails",
+      "language2": "React.js",
+      "language3": "Tailwind",
       "link": "view in github"
     },
     {
       "id": "3",
-      "src": "",
+      "src": "src/assets/budget.png",
       "title": "Budget Buddy",
+      "date": "Full-Stack | 2023",
       "description": "Revolutionize the way you handle your finances with our user-friendly budget app. This powerful tool empowers you to effortlessly track and manage your expenses. Dive into a personalized financial journey as you create custom spending categories, input expenditures with ease, and elevate the visual appeal by customizing category icons using any image URL. Take charge of your expenses and enjoy a seamless, personalized approach to financial management.",
+      "language1": "Ruby on Rails",
+      "language2": "CSS",
+      "language3": "API",
       "link": "view in github"
     }
   ],

@@ -25,6 +25,7 @@ export default function AboutMe(){
       alt="Facebook Icon"
       width="32"
       height="32"
+      className="icon-hover"
     />
   </a>
 </li>
@@ -41,6 +42,7 @@ export default function AboutMe(){
                   height="32"
                   viewBox="0 0 33 33"
                   fill="none"
+                  className="icon-hover"
                 >
                   <path
                     fill-rule="evenodd"
@@ -63,6 +65,7 @@ export default function AboutMe(){
       alt="TikTok Icon"
       width="39"
       height="39"
+      className="icon-hover"
     />
   </a>
 </li>
@@ -80,6 +83,7 @@ export default function AboutMe(){
                   height="32"
                   viewBox="0 0 33 33"
                   fill="none"
+                  className="icon-hover"
                 >
                   <path
                     fill-rule="evenodd"
@@ -102,6 +106,7 @@ export default function AboutMe(){
       alt="Hashnode Icon"
       width="32"
       height="32"
+      className="icon-hover"
     />
   </a>
 </li>

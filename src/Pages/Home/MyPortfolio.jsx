@@ -9,21 +9,22 @@ export default function MyPortfolio() {
           <h2 className="section-heading">My Portfolio</h2>
         </div>
         <div>
-          <button className="btn btn-github">
-          <a
-    href="https://www.github.com/"
+          
+          <a 
+    href="https://github.com/JoyTaribagshaw/"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
   >
+    <button className="btn btn-github">
     <img
       src="src/assets/icons8-github.svg"
       alt="Facebook Icon"
       width="32"
       height="32"
     />
+    Visit my GitHub</button>
   </a>
-            Visit my GitHub</button>
         </div>
       </div>
       <div className="portfolio-section-container">
@@ -34,11 +35,17 @@ export default function MyPortfolio() {
             </div>
             <div>
               <h3 className="portfolio-section-title">{item.title}</h3>
+              <h4>{item.date}</h4>
               <p className="text-md">{item.description}</p>
               {/* <p className="text-sm portfolio-link">{item.link}</p> */}
+              <p className="skills-section-description skills">
+  <span className="language skill">{item.language1}</span>
+  <span className="language skill">{item.language2}</span>
+  <span className="language skill">{item.language3}</span>
+</p>
               <button className="btn btn-primary">Live Website
               <a
-    href="https://www.github.com/"
+    href="https://github.com/JoyTaribagshaw"
     className="navbar-content"
     target="_blank"
     rel="noreferrer"
