@@ -18,7 +18,7 @@ export default function MyPortfolio() {
   >
     <button className="btn btn-github">
     <img
-      src="src/assets/icons8-github.svg"
+      src="./src/assets/icons8-github.svg"
       alt="Facebook Icon"
       width="32"
       height="32"
@@ -53,7 +53,7 @@ export default function MyPortfolio() {
   >
     <button className="button-git">{item.link}
     <img
-      src="src/assets/icons8-arrow-upper-right-24.png"
+      src="./src/assets/icons8-arrow-upper-right-24.png"
       alt="Arrow Icon"
       width="32"
       height="32"
@@ -70,7 +70,7 @@ export default function MyPortfolio() {
     rel="noreferrer"
   >
     <img
-      src="src/assets/icons8-github.svg"
+      src="./src/assets/icons8-github.svg"
       alt="GitHub Icon"
       width="32"
       height="32"
