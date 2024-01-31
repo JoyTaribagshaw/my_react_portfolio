@@ -2,7 +2,7 @@
   "skills": [
     {
       "id": "1",
-      "src": "src/assets/icons8-code-64.png",
+      "src": "./src/assets/icons8-code-64.png",
       "title": "Front-End",
       "language1": "HTML",
       "language2": "CSS",
@@ -13,7 +13,7 @@
     },
     {
       "id": "2",
-      "src": "src/assets/icons8-backend-64.png",
+      "src": "./src/assets/icons8-backend-64.png",
       "title": "Back-End",
       "language1": "SQLite",
       "language2": "Ruby",
@@ -22,7 +22,7 @@
     },
     {
       "id": "3",
-      "src": "src/assets/icons8-design-66.png",
+      "src": "./src/assets/icons8-design-66.png",
       "title": "UI/UX Design",
       "language1": "Figma",
       "language2": "Adobe XD",
@@ -31,7 +31,7 @@
     },
     {
       "id": "4",
-      "src": "src/assets/icons8-developer-64.png",
+      "src": "./src/assets/icons8-developer-64.png",
       "title": "Webflow Development",
       "language1": "CMS",
       "language2": "Wix",
@@ -42,7 +42,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "src/assets/wit.png",
+      "src": "./src/assets/wit.png",
       "title": "Women in Tech Mentorship",
       "date": "Front-End ● 2023",
       "description": "Imagine a dynamic and engaging webpage for a Women in Tech Annual Mentorship program, featuring past programs and spotlighting the speakers of the show. This multi-page website is designed for ease of use, with a main page showcasing upcoming program and a dedicated about page providing more insights.",
@@ -54,7 +54,7 @@
     },
     {
       "id": "2",
-      "src": "src/assets/mealconnect.png",
+      "src": "./src/assets/mealconnect.png",
       "title": "Meal Connect",
       "date": "Full-Stack ● 2023",
       "description": "A collaborative project where users can explore the pleasure of savoring exquisite meals. Featuring two repositories for front-end and back-end, this user-friendly platform allows users to navigate meal pages and reserve meals. Admin privileges unlock the ability to add meals and manage reservations.",
@@ -66,7 +66,7 @@
     },
     {
       "id": "3",
-      "src": "src/assets/budget.png",
+      "src": "./src/assets/budget.png",
       "title": "Budget Buddy",
       "date": "Full-Stack ● 2023",
       "description": "Revolutionize the way you handle your finances with our user-friendly budget app. This powerful tool empowers you to effortlessly track and manage your expenses.",
@@ -81,7 +81,7 @@
     {
       "id": "1",
       "count": "5",
-      "src": "src/assets/ruth.jpeg",
+      "src": "./src/assets/ruth.jpeg",
       "description": "Joy is responsive, and has a deep understanding of web development. We enjoyed working with her on our website projects and will definitely use her again.",
       "author_name": "Ruth Tari",
       "author_designation": "Entreprenuer"
@@ -89,7 +89,7 @@
     {
       "id": "2",
       "count": "5",
-      "src": "src/assets/abigail.jpeg",
+      "src": "./src/assets/abigail.jpeg",
       "description": "It's not my first time using Miss Joy and now she once again surprised me with her talent and knowledge in Webflow web development and especially in CMS. She understands the needs and works timely.",
       "author_name": "Abigail Nyala",
       "author_designation": "Founder, WIGSI"
@@ -97,7 +97,7 @@
     {
       "id": "3",
       "count": "5",
-      "src": "src/assets/saw.jpeg",
+      "src": "./src/assets/saw.jpeg",
       "description": "It was great working with Joy, she is very quick to respond and open to collaborating and going above and beyond. The final result is exactly what I had in mind. Highly recommend.",
       "author_name": "Thomas Bugyei",
       "author_designation": "starbucks"

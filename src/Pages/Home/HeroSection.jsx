@@ -26,7 +26,7 @@ Whether you have a project in mind or just want to chat possibilities, I'm here 
           <button className="btn btn-primary">Get In Touch</button>
         </Link>      </div>
 <div className="hero-section-img">
-<img src="src/assets/-bsb65x.jpg" alt="Hero Section Image" />
+<img src="./src/assets/-bsb65x.jpg" alt="Hero Section Image" />
 </div>
     </section>
   )

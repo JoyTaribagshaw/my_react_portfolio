@@ -87,7 +87,7 @@ function Footer() {
     rel="noreferrer"
   >
     <img
-      src="src/assets/icons8-facebook.svg"
+      src="./src/assets/icons8-facebook.svg"
       alt="Facebook Icon"
       width="32"
       height="32"
@@ -127,7 +127,7 @@ function Footer() {
     rel="noreferrer"
   >
     <img
-      src="src/assets/icons8-tiktok.svg"
+      src="./src/assets/icons8-tiktok.svg"
       alt="TikTok Icon"
       width="39"
       height="39"
@@ -168,7 +168,7 @@ function Footer() {
     rel="noreferrer"
   >
     <img
-      src="src/assets/icons8-hashnode.svg"
+      src="./src/assets/icons8-hashnode.svg"
       alt="Hashnode Icon"
       width="32"
       height="32"
